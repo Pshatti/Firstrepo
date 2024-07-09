@@ -1,5 +1,4 @@
 Hi
 We are learning Git
 
-Added one more line
 
